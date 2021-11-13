@@ -1,1 +1,1 @@
-from .get_data import test
+from .get_data import get_sentinel_datad

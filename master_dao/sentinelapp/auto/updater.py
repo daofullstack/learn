@@ -6,6 +6,6 @@ from sentinelapp.auto import tasks
 
 def start():
     scheduler = BackgroundScheduler()
-    scheduler.add_job(tasks.test, "interval", seconds=10)
+    scheduler.add_job(tasks.get_sentinel_datad, "interval", seconds=15)
 
     scheduler.start()

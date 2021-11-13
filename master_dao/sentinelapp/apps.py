@@ -8,4 +8,4 @@ class SentinelappConfig(AppConfig):
     def ready(self):
         from .auto import updater
 
-        # updater.start()
+        updater.start()
