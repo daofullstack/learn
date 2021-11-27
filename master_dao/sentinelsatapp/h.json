@@ -1,0 +1,284 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [-4.724742, 7.704809],
+              [-4.726482, 8.138363],
+              [-5.722423, 8.132908],
+              [-5.716147, 7.140815],
+              [-4.847323, 7.144997],
+              [-4.815674, 7.289348],
+              [-4.78337, 7.437998],
+              [-4.751007, 7.5866],
+              [-4.724742, 7.704809]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "id": 0,
+      "properties": {
+        "beginposition": "2015-11-20T10:43:32.031000Z",
+        "cloudcoverpercentage": 27.8942,
+        "datastripidentifier": "S2A_OPER_MSI_L1C_DS_EPA__20170221T023952_S20151120T105825_N02.04",
+        "datatakesensingstart": "2015-11-20T10:43:32.031000Z",
+        "endposition": "2015-11-20T10:43:32.031000Z",
+        "filename": "S2A_MSIL1C_20151120T104332_N0204_R008_T30NTP_20151120T105825.SAFE",
+        "format": "SAFE",
+        "granuleidentifier": "S2A_OPER_MSI_L1C_TL_EPA__20170221T023952_A002150_T30NTP_N02.04",
+        "hv_order_tileid": "NP30T",
+        "id": "315f43b9-d24e-40d6-a1f5-d541b1848dcb",
+        "identifier": "S2A_MSIL1C_20151120T104332_N0204_R008_T30NTP_20151120T105825",
+        "ingestiondate": "2019-01-21T19:10:43.466000Z",
+        "instrumentname": "Multi-Spectral Instrument",
+        "instrumentshortname": "MSI",
+        "level1cpdiidentifier": "S2A_OPER_MSI_L1C_TL_EPA__20170221T023952_A002150_T30NTP_N02.04",
+        "link": "https://apihub.copernicus.eu/apihub/odata/v1/Products('315f43b9-d24e-40d6-a1f5-d541b1848dcb')/$value",
+        "link_alternative": "https://apihub.copernicus.eu/apihub/odata/v1/Products('315f43b9-d24e-40d6-a1f5-d541b1848dcb')/",
+        "link_icon": "https://apihub.copernicus.eu/apihub/odata/v1/Products('315f43b9-d24e-40d6-a1f5-d541b1848dcb')/Products('Quicklook')/$value",
+        "ondemand": "false",
+        "orbitdirection": "DESCENDING",
+        "orbitnumber": 2150,
+        "platformidentifier": "2015-028A",
+        "platformname": "Sentinel-2",
+        "platformserialidentifier": "Sentinel-2A",
+        "processingbaseline": "02.04",
+        "processinglevel": "Level-1C",
+        "producttype": "S2MSI1C",
+        "relativeorbitnumber": 8,
+        "s2datatakeid": "GS2A_20151120T104332_002150_N02.04",
+        "sensoroperationalmode": "INS-NOBS",
+        "size": "747.27 MB",
+        "summary": "Date: 2015-11-20T10:43:32.031Z, Instrument: MSI, Satellite: Sentinel-2, Size: 747.27 MB",
+        "tileid": "30NTP",
+        "title": "S2A_MSIL1C_20151120T104332_N0204_R008_T30NTP_20151120T105825",
+        "uuid": "315f43b9-d24e-40d6-a1f5-d541b1848dcb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [-5.716147, 7.140815],
+              [-4.722498, 7.145598],
+              [-4.726482, 8.138363],
+              [-5.722423, 8.132908],
+              [-5.716147, 7.140815]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "id": 1,
+      "properties": {
+        "beginposition": "2015-12-17T10:34:42.031000Z",
+        "cloudcoverpercentage": 0.0,
+        "datastripidentifier": "S2A_OPER_MSI_L1C_DS_SGS__20151217T175425_S20151217T103946_N02.01",
+        "datatakesensingstart": "2015-12-17T10:34:42.031000Z",
+        "endposition": "2015-12-17T10:34:42.031000Z",
+        "filename": "S2A_MSIL1C_20151217T103442_N0201_R108_T30NTP_20151217T103946.SAFE",
+        "format": "SAFE",
+        "granuleidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151217T175425_A002536_T30NTP_N02.01",
+        "hv_order_tileid": "NP30T",
+        "id": "0a71e257-c91d-4526-86e0-e1e4aeaf35ff",
+        "identifier": "S2A_MSIL1C_20151217T103442_N0201_R108_T30NTP_20151217T103946",
+        "ingestiondate": "2019-01-09T13:17:36.208000Z",
+        "instrumentname": "Multi-Spectral Instrument",
+        "instrumentshortname": "MSI",
+        "level1cpdiidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151217T175425_A002536_T30NTP_N02.01",
+        "link": "https://apihub.copernicus.eu/apihub/odata/v1/Products('0a71e257-c91d-4526-86e0-e1e4aeaf35ff')/$value",
+        "link_alternative": "https://apihub.copernicus.eu/apihub/odata/v1/Products('0a71e257-c91d-4526-86e0-e1e4aeaf35ff')/",
+        "link_icon": "https://apihub.copernicus.eu/apihub/odata/v1/Products('0a71e257-c91d-4526-86e0-e1e4aeaf35ff')/Products('Quicklook')/$value",
+        "ondemand": "false",
+        "orbitdirection": "DESCENDING",
+        "orbitnumber": 2536,
+        "platformidentifier": "2015-028A",
+        "platformname": "Sentinel-2",
+        "platformserialidentifier": "Sentinel-2A",
+        "processingbaseline": "02.01",
+        "processinglevel": "Level-1C",
+        "producttype": "S2MSI1C",
+        "relativeorbitnumber": 108,
+        "s2datatakeid": "GS2A_20151217T103442_002536_N02.01",
+        "sensoroperationalmode": "INS-NOBS",
+        "size": "183.85 MB",
+        "summary": "Date: 2015-12-17T10:34:42.031Z, Instrument: MSI, Satellite: Sentinel-2, Size: 183.85 MB",
+        "tileid": "30NTP",
+        "title": "S2A_MSIL1C_20151217T103442_N0201_R108_T30NTP_20151217T103946",
+        "uuid": "0a71e257-c91d-4526-86e0-e1e4aeaf35ff"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [-5.711159, 6.237589],
+              [-4.719332, 6.241762],
+              [-4.722833, 7.234569],
+              [-5.716675, 7.229726],
+              [-5.711159, 6.237589]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "id": 2,
+      "properties": {
+        "beginposition": "2015-12-17T10:34:42.031000Z",
+        "cloudcoverpercentage": 0.0,
+        "datastripidentifier": "S2A_OPER_MSI_L1C_DS_SGS__20151217T175425_S20151217T103946_N02.01",
+        "datatakesensingstart": "2015-12-17T10:34:42.031000Z",
+        "endposition": "2015-12-17T10:34:42.031000Z",
+        "filename": "S2A_MSIL1C_20151217T103442_N0201_R108_T30NTN_20151217T103946.SAFE",
+        "format": "SAFE",
+        "granuleidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151217T175425_A002536_T30NTN_N02.01",
+        "hv_order_tileid": "NN30T",
+        "id": "e326cce6-4a3c-408b-9272-b27b9a54c33e",
+        "identifier": "S2A_MSIL1C_20151217T103442_N0201_R108_T30NTN_20151217T103946",
+        "ingestiondate": "2019-01-09T13:17:08.499000Z",
+        "instrumentname": "Multi-Spectral Instrument",
+        "instrumentshortname": "MSI",
+        "level1cpdiidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151217T175425_A002536_T30NTN_N02.01",
+        "link": "https://apihub.copernicus.eu/apihub/odata/v1/Products('e326cce6-4a3c-408b-9272-b27b9a54c33e')/$value",
+        "link_alternative": "https://apihub.copernicus.eu/apihub/odata/v1/Products('e326cce6-4a3c-408b-9272-b27b9a54c33e')/",
+        "link_icon": "https://apihub.copernicus.eu/apihub/odata/v1/Products('e326cce6-4a3c-408b-9272-b27b9a54c33e')/Products('Quicklook')/$value",
+        "ondemand": "false",
+        "orbitdirection": "DESCENDING",
+        "orbitnumber": 2536,
+        "platformidentifier": "2015-028A",
+        "platformname": "Sentinel-2",
+        "platformserialidentifier": "Sentinel-2A",
+        "processingbaseline": "02.01",
+        "processinglevel": "Level-1C",
+        "producttype": "S2MSI1C",
+        "relativeorbitnumber": 108,
+        "s2datatakeid": "GS2A_20151217T103442_002536_N02.01",
+        "sensoroperationalmode": "INS-NOBS",
+        "size": "317.98 MB",
+        "summary": "Date: 2015-12-17T10:34:42.031Z, Instrument: MSI, Satellite: Sentinel-2, Size: 317.98 MB",
+        "tileid": "30NTN",
+        "title": "S2A_MSIL1C_20151217T103442_N0201_R108_T30NTN_20151217T103946",
+        "uuid": "e326cce6-4a3c-408b-9272-b27b9a54c33e"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [-5.711159, 6.237589],
+              [-4.719332, 6.241762],
+              [-4.722833, 7.234569],
+              [-5.716675, 7.229726],
+              [-5.711159, 6.237589]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "id": 3,
+      "properties": {
+        "beginposition": "2015-12-27T10:34:42.030000Z",
+        "cloudcoverpercentage": 0.0,
+        "datastripidentifier": "S2A_OPER_MSI_L1C_DS_SGS__20151227T180538_S20151227T104731_N02.01",
+        "datatakesensingstart": "2015-12-27T10:34:42.030000Z",
+        "endposition": "2015-12-27T10:34:42.030000Z",
+        "filename": "S2A_MSIL1C_20151227T103442_N0201_R108_T30NTN_20151227T104731.SAFE",
+        "format": "SAFE",
+        "granuleidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151227T180538_A002679_T30NTN_N02.01",
+        "hv_order_tileid": "NN30T",
+        "id": "a822131d-e40c-428c-9848-88223fd5df1f",
+        "identifier": "S2A_MSIL1C_20151227T103442_N0201_R108_T30NTN_20151227T104731",
+        "ingestiondate": "2018-12-20T02:34:54.255000Z",
+        "instrumentname": "Multi-Spectral Instrument",
+        "instrumentshortname": "MSI",
+        "level1cpdiidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151227T180538_A002679_T30NTN_N02.01",
+        "link": "https://apihub.copernicus.eu/apihub/odata/v1/Products('a822131d-e40c-428c-9848-88223fd5df1f')/$value",
+        "link_alternative": "https://apihub.copernicus.eu/apihub/odata/v1/Products('a822131d-e40c-428c-9848-88223fd5df1f')/",
+        "link_icon": "https://apihub.copernicus.eu/apihub/odata/v1/Products('a822131d-e40c-428c-9848-88223fd5df1f')/Products('Quicklook')/$value",
+        "ondemand": "false",
+        "orbitdirection": "DESCENDING",
+        "orbitnumber": 2679,
+        "platformidentifier": "2015-028A",
+        "platformname": "Sentinel-2",
+        "platformserialidentifier": "Sentinel-2A",
+        "processingbaseline": "02.01",
+        "processinglevel": "Level-1C",
+        "producttype": "S2MSI1C",
+        "relativeorbitnumber": 108,
+        "s2datatakeid": "GS2A_20151227T103442_002679_N02.01",
+        "sensoroperationalmode": "INS-NOBS",
+        "size": "282.23 MB",
+        "summary": "Date: 2015-12-27T10:34:42.03Z, Instrument: MSI, Satellite: Sentinel-2, Size: 282.23 MB",
+        "tileid": "30NTN",
+        "title": "S2A_MSIL1C_20151227T103442_N0201_R108_T30NTN_20151227T104731",
+        "uuid": "a822131d-e40c-428c-9848-88223fd5df1f"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [-5.716147, 7.140815],
+              [-4.722498, 7.145598],
+              [-4.726482, 8.138363],
+              [-5.722423, 8.132908],
+              [-5.716147, 7.140815]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "id": 4,
+      "properties": {
+        "beginposition": "2015-12-27T10:34:42.030000Z",
+        "cloudcoverpercentage": 0.0,
+        "datastripidentifier": "S2A_OPER_MSI_L1C_DS_SGS__20151227T180538_S20151227T104731_N02.01",
+        "datatakesensingstart": "2015-12-27T10:34:42.030000Z",
+        "endposition": "2015-12-27T10:34:42.030000Z",
+        "filename": "S2A_MSIL1C_20151227T103442_N0201_R108_T30NTP_20151227T104731.SAFE",
+        "format": "SAFE",
+        "granuleidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151227T180538_A002679_T30NTP_N02.01",
+        "hv_order_tileid": "NP30T",
+        "id": "a01ab427-6beb-4bb5-a4ea-2ecd8694cc60",
+        "identifier": "S2A_MSIL1C_20151227T103442_N0201_R108_T30NTP_20151227T104731",
+        "ingestiondate": "2018-12-20T02:31:04.461000Z",
+        "instrumentname": "Multi-Spectral Instrument",
+        "instrumentshortname": "MSI",
+        "level1cpdiidentifier": "S2A_OPER_MSI_L1C_TL_SGS__20151227T180538_A002679_T30NTP_N02.01",
+        "link": "https://apihub.copernicus.eu/apihub/odata/v1/Products('a01ab427-6beb-4bb5-a4ea-2ecd8694cc60')/$value",
+        "link_alternative": "https://apihub.copernicus.eu/apihub/odata/v1/Products('a01ab427-6beb-4bb5-a4ea-2ecd8694cc60')/",
+        "link_icon": "https://apihub.copernicus.eu/apihub/odata/v1/Products('a01ab427-6beb-4bb5-a4ea-2ecd8694cc60')/Products('Quicklook')/$value",
+        "ondemand": "false",
+        "orbitdirection": "DESCENDING",
+        "orbitnumber": 2679,
+        "platformidentifier": "2015-028A",
+        "platformname": "Sentinel-2",
+        "platformserialidentifier": "Sentinel-2A",
+        "processingbaseline": "02.01",
+        "processinglevel": "Level-1C",
+        "producttype": "S2MSI1C",
+        "relativeorbitnumber": 108,
+        "s2datatakeid": "GS2A_20151227T103442_002679_N02.01",
+        "sensoroperationalmode": "INS-NOBS",
+        "size": "163.66 MB",
+        "summary": "Date: 2015-12-27T10:34:42.03Z, Instrument: MSI, Satellite: Sentinel-2, Size: 163.66 MB",
+        "tileid": "30NTP",
+        "title": "S2A_MSIL1C_20151227T103442_N0201_R108_T30NTP_20151227T104731",
+        "uuid": "a01ab427-6beb-4bb5-a4ea-2ecd8694cc60"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
