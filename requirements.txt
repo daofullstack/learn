@@ -53,3 +53,5 @@ tzlocal==2.1
 urllib3==1.26.7
 utils==1.0.1
 utm==0.7.0
+djangorestframework==3.12.4
+django-filter==2.4.0
