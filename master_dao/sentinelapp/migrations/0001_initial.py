@@ -8,21 +8,28 @@ class Migration(migrations.Migration):
 
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='SentinelData',
+            name="SentinelData",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('data', jsonfield.fields.JSONField(default=dict)),
-                ('norm_factor', models.FloatField()),
-                ('image', models.FileField(upload_to='sentinel')),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("data", jsonfield.fields.JSONField(default=dict)),
+                ("norm_factor", models.FloatField()),
+                ("image", models.FileField(upload_to="sentinel")),
             ],
             options={
-                'verbose_name': 'SentinelData',
-                'verbose_name_plural': 'SentinelDatas',
+                "verbose_name": "SentinelData",
+                "verbose_name_plural": "SentinelDatas",
             },
         ),
     ]

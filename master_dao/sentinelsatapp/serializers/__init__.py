@@ -1,0 +1,1 @@
+from .propertie import PropertieSerializer

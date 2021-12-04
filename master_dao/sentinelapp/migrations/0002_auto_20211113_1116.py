@@ -7,23 +7,23 @@ import jsonfield.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('sentinelapp', '0001_initial'),
+        ("sentinelapp", "0001_initial"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='sentineldata',
-            name='data',
+            model_name="sentineldata",
+            name="data",
             field=jsonfield.fields.JSONField(default={}),
         ),
         migrations.AlterField(
-            model_name='sentineldata',
-            name='image',
-            field=models.FileField(default='file.png', upload_to='sentinel'),
+            model_name="sentineldata",
+            name="image",
+            field=models.FileField(default="file.png", upload_to="sentinel"),
         ),
         migrations.AlterField(
-            model_name='sentineldata',
-            name='norm_factor',
+            model_name="sentineldata",
+            name="norm_factor",
             field=models.FloatField(default=0),
         ),
     ]

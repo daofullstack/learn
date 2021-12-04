@@ -13,6 +13,7 @@ class SentinelData(models.Model):
     image = models.FileField(upload_to="sentinel", default="file.png")
 
     class Meta:
+
         """Meta definition for SentinelData."""
 
         verbose_name = "SentinelData"
